@@ -5,7 +5,7 @@ from datetime import datetime
 # =========================
 # JSCC CSV URL（実URLに差し替え）
 # =========================
-JSCC_URL = "https://example.com/jscc_jpy_ois.csv"
+JSCC_URL = "https://www.jpx.co.jp/jscc/statistics/ois/jpy_ois.csv"
 
 print("Downloading JSCC OIS...")
 
